@@ -1,4 +1,4 @@
 # AME220Fall2020
 
 Percy Humphrey
-ASU Id - 1214779059
+1214779059
