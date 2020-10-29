@@ -76,13 +76,13 @@
     //iterate through all slides and display current while hiding others
     while(i < allImgObjs.length){
       if(i == (currentSlide - 1)){
-        allImgObjs[i].style.marginLeft = "0%";
+        allImgObjs[i].style.marginLeft = "1";
       }
       else if(i < (currentSlide - 1)){
-        allImgObjs[i].style.marginLeft = "-100%";
+        allImgObjs[i].style.marginLeft = "0";
       }
       else{
-        allImgObjs[i].style.marginLeft = "100%";
+        allImgObjs[i].style.marginLeft = "0";
       }
       i = i + 1;
     }
