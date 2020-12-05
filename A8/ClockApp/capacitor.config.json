@@ -1,0 +1,12 @@
+{
+  "appId": "edu.asu.clock",
+  "appName": "ClockApp",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}
